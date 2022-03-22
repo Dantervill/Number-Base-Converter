@@ -4,7 +4,7 @@ The console application intended to convert whole numbers and decimal fractions 
 
 
 Requirements:
-1. from/to bases should be in range from 2 to 36.
+1. From/to bases should be in range from 2 to 36.
 
 
 
