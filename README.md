@@ -15,8 +15,5 @@ Things you should know:
 
 
 
-The example of program execution.
-
-
 
 ![example](https://user-images.githubusercontent.com/64216083/159131248-0716ced0-0b7f-4f93-bd56-5c7256c5c7ee.png)
